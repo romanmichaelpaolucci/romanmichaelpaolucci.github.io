@@ -11,6 +11,32 @@
 *	Edit this section
 *
 * ======================================================= */
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+.ticker{
+  width: 5000px !important;
+  pointer-events: none;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  position: absolute !important; 
+  margin-top: 0px !important;
+  left: 0px !important;
+  z-index: 10 !important;
+}
+
+
+.footer__copyright{
+ font-size: 14px; 
+}
+
+#lecture_heading{
+  
+   padding-top: 30px;
+}
+
 section{
     margin: 0 !important;       /* Removes vertical margins */
     padding: 10px !important;   /* Adjust padding as needed */
