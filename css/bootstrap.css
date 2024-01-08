@@ -3739,7 +3739,7 @@ tbody.collapse.in {
   padding: 9px 10px;
   margin-top: 10.5px;
   margin-bottom: 10.5px;
-  background-color: transparent;
+  background-color: #273752 !important;
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
@@ -3776,7 +3776,7 @@ tbody.collapse.in {
     float: none;
     width: auto;
     margin-top: 0;
-    background-color: transparent;
+    color: #273752;
     border: 0;
     box-shadow: none;
   }
