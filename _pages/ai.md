@@ -1,10 +1,8 @@
 ---
 permalink: /
 title: "Honors Artificial Intelligence"
+permalink: /ai/
 author_profile: true
-redirect_from: 
-  - /ai/
-  - /ai.html
 ---
 
 # Honors Artificial Intelligence Course
