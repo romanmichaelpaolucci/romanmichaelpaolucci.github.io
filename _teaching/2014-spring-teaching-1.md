@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Computer Science Faculty"
 collection: teaching
-type: "Undergraduate course"
+type: "High School Courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Saddle River Day School, Computer Science Department"
+date: 2023-2024, 2024-2025
+location: "Saddle River, NJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Built curriculum and taught the following courses: Computer Science 1, Computer Science 2, Honors Data Science, Honors Natural Language Processing, Honors Artificial Intelligence
 
 Heading 1
 ======
