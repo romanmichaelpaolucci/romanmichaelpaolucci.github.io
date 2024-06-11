@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Roman Paolucci"
+description              : &description "Machine Learning and Artificial Intelligence Enthusiast"
 url                      : https://romanmichaelpaolucci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "romanmichaelpaolucci/romanmichaelpaolucci.github.io"
@@ -21,10 +21,10 @@ repository               : "romanmichaelpaolucci/romanmichaelpaolucci.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rmp_profile.png"
   name             : "Roman Paolucci"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Faculty, Machine Learning and Artificial Intelligence Enthusiast"
+  bio              : "Computer Science Faculty"
   location         : "Saddle River, NJ"
   employer         : "Saddle River Day School"
   uri              : # URL
