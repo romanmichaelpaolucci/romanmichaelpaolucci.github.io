@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Operations Research, Columbia University, 2026 (expected)
+* B.S. in Mathematics and Quantitative Finance, James Madison University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2023 - Present: Artificial Intelligence Strategist, Computer Science Faculty
+  * Saddle River Day School
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2023 - May 2023: Graduate Student Researcher
+  * Columbia University
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2022 - January 2023: Research Scientist
+  * University of Tennessee Knoxville University
+
+* May 2021 - August 2022: Quantitative Researcher
+  * Bloomberg LP
+  * Supervisor: Bruno Dupire
   
 Skills
 ======
