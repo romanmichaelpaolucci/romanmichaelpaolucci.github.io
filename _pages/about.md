@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/nonconvex.png" alt="Your Image Description" style="float: right; margin-left: 10px; height: 300px; width: 500px;">
+<img src="/images/nonconvex.png" alt="Your Image Description" style="float: right; margin-left: 10px; height: 200px; width: 400px;">
 
 
 News
