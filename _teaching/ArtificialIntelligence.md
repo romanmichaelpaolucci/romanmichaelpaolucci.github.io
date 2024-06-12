@@ -9,7 +9,7 @@ location: "Saddle River, NJ"
 ---
 
 *Course Description:
-This course provides a comprehensive overview of modern AI techniques and applications. Students will gain hands-on experience through projects and practical applications, preparing them for advanced studies and careers in machine learning artificial intelligence.*
+This course provides an in-depth exploration of advanced AI topics, including Machine Learning, Computer Vision, Generative Structures, Reinforcement Learning, Transformer Models, and Large Language Models (LLMs). Students will gain hands-on experience with cutting-edge techniques and tools, preparing them for the rapidly evolving field of AI.*
 
 *Unit 1: Machine Learning and Deep Learning*
 
