@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-#### In my free time I train Brazilian Jiu-Jitsu under Mike Wilson. 
+Hey there, I am currently a MS student at Columbia studying Operations Research concentrating in Machine Learning and Artificial Intelligence. I hold a bachelor's degree from James Madison University in Mathematics and Quantitative Finance. Currently, I am Computer Science faculty at Saddle River Day School developing and teaching their data science curriculum. I am also their AI Specialist aiding in product development and faculty-product integration.
 
-#### I am currently a purple belt and enjoy competing at regional competitions.
+In my free time I train Brazilian Jiu-Jitsu under Mike Wilson. I am currently a purple belt and enjoy competing at regional competitions.
 
-#### Competition Achievements
+#### BJJ Competition Achievements
 
   * Purple Belt
       * Grappling Industries 2023
