@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Saddle River, NJ"
 ---
 
-# Honors Artificial Intelligence Course
+# Honors Artificial Intelligence
 *Course Description:
 This course provides a comprehensive overview of modern AI techniques and applications. Students will gain hands-on experience through projects and practical applications, preparing them for advanced studies and careers in machine learning artificial intelligence.*
 
