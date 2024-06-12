@@ -1,6 +1,6 @@
 ---
 title: "Q-Fin: A Python Library for Mathematical Finance"
-excerpt: "Package Owner<br/><img src='/images/500x300.png'>"
+excerpt: "Package Owner<br/><img src='/images/qfin.png'>"
 collection: portfolio
 ---
 
