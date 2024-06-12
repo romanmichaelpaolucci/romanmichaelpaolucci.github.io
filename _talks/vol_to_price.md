@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/vol_to_price
 venue: "Bloomberg Quant Seminar Series"
-date: 2014-02-01
+date: 2021-01-01
 location: "New York, NY"
 ---
 
