@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Q-Fin: A Python Library for Mathematical Finance"
+excerpt: "Package Owner<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Q-Fin is Available on GitHub](https://github.com/romanmichaelpaolucci/Q-Fin)
+
+[Q-Fin is Available on PyPi](https://pypi.org/project/qfin/)
