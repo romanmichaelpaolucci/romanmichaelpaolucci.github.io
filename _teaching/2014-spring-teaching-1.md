@@ -4,7 +4,7 @@ collection: teaching
 type: "High School Honors Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Saddle River Day School, Department of Computer Science"
-date: 2014-01-01
+date: 2023-2024, 2024-2025
 location: "Saddle River, NJ"
 ---
 
