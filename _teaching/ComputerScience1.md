@@ -1,7 +1,7 @@
 ---
 title: "Computer Science 1"
 collection: teaching
-type: "High School Honors Course"
+type: "High School CP Course"
 permalink: /teaching/ComputerScience1
 venue: "Saddle River Day School, Department of Computer Science"
 date: 2023-05-01
