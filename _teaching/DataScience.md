@@ -1,24 +1,24 @@
 ---
-title: "Artificial Intelligence"
+title: "Data Science"
 collection: teaching
 type: "High School Honors Course"
-permalink: /teaching/ArtificialIntelligence
+permalink: /teaching/DataScience
 venue: "Saddle River Day School, Department of Computer Science"
 date: 2023-05-01
 location: "Saddle River, NJ"
 ---
 
 *Course Description:
-This course provides a comprehensive overview of modern AI techniques and applications. Students will gain hands-on experience through projects and practical applications, preparing them for advanced studies and careers in machine learning artificial intelligence.*
+This course offers a comprehensive study of Data Science, encompassing application development, probability theory, and machine learning. Students will learn to build data-driven applications, apply probabilistic models, and utilize machine learning algorithms to extract insights and make data-driven decisions.*
 
-*Unit 1: Machine Learning and Deep Learning*
+*Unit 1: Python Programming*
 
-*Unit 2: Numerical Analysis and Important Theorems*
+*Unit 2: Application Development*
 
-*Unit 3: Computer Vision*
+*Unit 3: Probability and Statistics*
 
-*Unit 4: Generative AI*
+*Unit 4: Topics in Data Science*
 
-*Unit 5: Reinforcement Learning*
+*Unit 5: Time Series Analysis*
 
-*Unit 6: Large Language Models*
+*Unit 6: Machine Learning*
