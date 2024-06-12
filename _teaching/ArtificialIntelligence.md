@@ -2,7 +2,7 @@
 title: "Artificial Intelligence"
 collection: teaching
 type: "High School Honors Course"
-permalink: /teaching/2023-2024-ArtificialIntelligence
+permalink: /teaching/ArtificialIntelligence
 venue: "Saddle River Day School, Department of Computer Science"
 date: 2023-05-01
 location: "Saddle River, NJ"
