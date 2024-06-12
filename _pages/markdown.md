@@ -11,7 +11,7 @@ Hey there, I am currently a MS student at Columbia studying Operations Research 
 
 In my free time I train Brazilian Jiu-Jitsu under Mike Wilson. I am currently a purple belt and enjoy competing at regional competitions.
 
-#### BJJ Competition Achievements
+### BJJ Competition Achievements
 
   * Purple Belt
       * Grappling Industries 2023
