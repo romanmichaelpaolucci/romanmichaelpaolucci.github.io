@@ -1,14 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Artificial Intelligence"
 collection: teaching
-type: "Undergraduate course"
+type: "High School Honors Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Saddle River Day School, Department of Computer Science"
 date: 2014-01-01
-location: "City, Country"
+location: "Saddle River, NJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+# Honors Artificial Intelligence Course
+*Course Description:
+This course provides a comprehensive overview of modern AI techniques and applications. Students will gain hands-on experience through projects and practical applications, preparing them for advanced studies and careers in machine learning artificial intelligence.*
+
+*Unit 1: Machine Learning and Deep Learning*
+
+*Unit 2: Numerical Analysis and Important Theorems*
+
+*Unit 3: Computer Vision*
+
+*Unit 4: Generative AI*
+
+*Unit 5: Reinforcement Learning*
+
+*Unit 6: Large Language Models*
+
 
 Heading 1
 ======
