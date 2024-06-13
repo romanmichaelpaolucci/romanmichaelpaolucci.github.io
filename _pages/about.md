@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/nonconvex.png" alt="Your Image Description" style="float: right; margin-left: 10px; height: 200px; width: 400px;">
+<a href="https://gd-sgd.streamlit.app/"><img src="/images/nonconvex.png" alt="Your Image Description" style="float: right; margin-left: 10px; height: 200px; width: 400px;"></a>
 
 
 News
