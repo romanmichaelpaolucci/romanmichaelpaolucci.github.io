@@ -27,20 +27,26 @@ There tends to be a lot of interest in the projects developed in the courses I t
 ### Honors Artificial Intelligence
 
 #### Projects
-- Weather Recognition System
-- Hand Written Text Generator
-- Game Playing Agents
-- Policy Prediction and Control
+*- AutoML App*
+
+*- WolframAlpha Lite*
+
+*- Weather Recognition System*
+
+*- Hand Written Text Generator*
+
+*- Intelligent Agents (Policy Prediction and Control)*
+
+*- (mini) Large Language Model*
 
 #### Resources
-
-### Honors Natural Language Processing
-
-#### Projects
-- 
-
-#### Resources
-- 
+- [Search Algorithm Graph Visualization (Java Required)](https://www.aispace.org/search/index.shtml)
+- [Game Relevant Search Visualizations](https://www.redblobgames.com/)
+- [Simulated Annealing for Traveling Salesman Problem](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
+- [Monte Carlo Search Tree for Game Playing](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+- [Monte Carlo Search Tree Tic-Tac-Toe](https://vgarciasc.github.io/mcts-viz/)
+- [Multi-Arm Bandits (Exploration v. Exploitation)](https://cse442-17f.github.io/LinUCB/)
+- [Visualizing Reinforcement Learning Agents](https://rl-lab.com/)
 
 ### Honors Data Science
 
