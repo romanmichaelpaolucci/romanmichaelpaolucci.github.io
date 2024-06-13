@@ -24,9 +24,9 @@ Course Resources
 ======
 There tends to be a lot of interest in the projects developed in the courses I teach. Below you will find a set of links to interactive streamlit versions of the models and apps I teach my students to build sorted by course.
 
-### Honors Artificial Intelligence
+## Honors Artificial Intelligence
 
-#### Projects
+### Projects
 *- AutoML App*
 
 *- WolframAlpha Lite*
@@ -39,7 +39,7 @@ There tends to be a lot of interest in the projects developed in the courses I t
 
 *- (mini) Large Language Model*
 
-#### Resources
+### Resources
 - [Search Algorithm Graph Visualization (Java Required)](https://www.aispace.org/search/index.shtml)
 - [Game Relevant Search Visualizations](https://www.redblobgames.com/)
 - [Simulated Annealing for Traveling Salesman Problem](https://toddwschneider.com/posts/traveling-salesman-with-simulated-annealing-r-and-shiny/)
@@ -48,18 +48,26 @@ There tends to be a lot of interest in the projects developed in the courses I t
 - [Multi-Arm Bandits (Exploration v. Exploitation)](https://cse442-17f.github.io/LinUCB/)
 - [Visualizing Reinforcement Learning Agents](https://rl-lab.com/)
 
-### Honors Data Science
+## Honors Natural Language Processing
 
-#### Projects
+### Projects
 - 
 
-#### Resources
+### Resources
 - 
 
-### CP Computer Science 1
+## Honors Data Science
 
-#### Projects
+### Projects
 - 
 
-#### Resources
+### Resources
+- 
+
+## CP Computer Science 1
+
+### Projects
+- 
+
+### Resources
 - 
