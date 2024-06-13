@@ -20,7 +20,7 @@ If you are interested in the curriculum for these courses please see [Teaching](
 
 I have a great deal of interest in non-convex optimization problems. What's that you might ask? Check out [this interactive app](https://gd-sgd.streamlit.app/) to understand more about this problem and its relationship to machine learning and artificial intelligence!
 
-Course Projects and Resources
+Course Resources
 ======
 There tends to be a lot of interest in the projects developed in the courses I teach. Below you will find a set of links to interactive streamlit versions of the models and apps I teach my students to build sorted by course.
 
