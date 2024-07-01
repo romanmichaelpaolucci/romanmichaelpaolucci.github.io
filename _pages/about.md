@@ -48,18 +48,20 @@ There tends to be a lot of interest in the projects developed in the courses I t
 - [Multi-Arm Bandits (Exploration v. Exploitation)](https://cse442-17f.github.io/LinUCB/)
 - [Visualizing Reinforcement Learning Agents](https://rl-lab.com/)
 
-## Honors Natural Language Processing
-
-### Projects
-- 
-
-### Resources
-- 
-
 ## Honors Data Science
 
 ### Projects
-- 
+*- Zork-Style RPG Game*
+
+*- Database App*
+
+*- Probability App*
+
+*- Data Exploration App*
+
+*- Time Series Forecasting App*
+
+*- Machine Learning Prediction App*
 
 ### Resources
 - 
@@ -67,7 +69,17 @@ There tends to be a lot of interest in the projects developed in the courses I t
 ## CP Computer Science 1
 
 ### Projects
-- 
+*- Basic Calculator App*
+
+*- Flappy Bird in Python*
+
+*- Cryptocurrency App*
+
+*- Portfolio Website*
+
+*- Data Report Project*
+
+*- Artificial Intelligence App*
 
 ### Resources
 - 
