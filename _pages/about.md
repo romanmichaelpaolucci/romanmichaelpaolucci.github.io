@@ -64,7 +64,14 @@ There tends to be a lot of interest in the projects developed in the courses I t
 *- Machine Learning Prediction App*
 
 ### Resources
-- 
+- [Getting Started with Python](https://www.w3schools.com/python/)
+- [Working with Tkinter](https://www.geeksforgeeks.org/python-gui-tkinter/)
+- [Probability and Statistics Tools](https://www.statskingdom.com/distribution-calculator.html)
+- [Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+- [Time Series Decomposition](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
+- [Time Series Forecasting](https://www.datacamp.com/tutorial/tutorial-time-series-forecasting)
+- [Machine Learning v. Linear Regression](https://towardsdatascience.com/linear-regression-v-s-neural-networks-cd03b29386d4)
+- [Artificial Intelligence Bootcamp](https://romanmichaelpaolucci.medium.com/artificial-intelligence-bootcamp-8745d61a9d25)
 
 ## CP Computer Science 1
 
@@ -82,4 +89,11 @@ There tends to be a lot of interest in the projects developed in the courses I t
 *- Artificial Intelligence App*
 
 ### Resources
-- 
+- [Getting Started with Python](https://www.w3schools.com/python/)
+- [PyGame Tutorials](https://www.pygame.org/wiki/tutorials)
+- [List of Public APIs for App Development](https://github.com/public-api-lists/public-api-lists)
+- [HTML Tutorials](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorials](https://www.w3schools.com/css/default.asp)
+- [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [Data Visualizations in Python](https://www.geeksforgeeks.org/python-data-visualization-tutorial/)
+- [Getting Started with LLM APIs](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-api)
