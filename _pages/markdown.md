@@ -14,6 +14,12 @@ In my free time I train Brazilian Jiu-Jitsu under Mike Wilson. I am currently a 
 ### BJJ Competition Achievements
 
   * Purple Belt
+
+      * Fuji BJJ
+          * Expert No-Gi 1st Place
+          * Purple Belt Gi 1st Place
+          * Purple Belt Gi Absolute 1st Place
+
       * Grappling Industries 2023
           * Purple Belt No-Gi 1st Place
       
